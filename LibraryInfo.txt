@@ -1,0 +1,33 @@
+studentid=24-57575-2
+Name=Salman farook
+Department=CSE
+
+1
+
+The Great Gatsby
+
+F. Scott Fitzgerald
+
+Fiction
+
+12.99
+
+2
+
+Atomic Habits
+
+James Clear
+
+Self-Help
+
+18.50
+
+3
+
+Harry Potter and the Philosopher's Stone
+
+J.K. Rowling
+
+Fantasy
+
+15.99
